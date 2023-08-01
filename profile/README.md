@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![Diagram](./images//diagram.svg)
+![Diagram](images/diagram.svg)
